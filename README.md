@@ -11,7 +11,7 @@ image-bed
 | images_3 | [操作系统：设计与实现](https://jyywiki.cn)                   |
 | images_4 | [计算机系统基础](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html) |
 | images_5 | chitchat                                                     |
-| images_6 | PostgreSQL深度学习                                           |
+| images_6 | C/C++                                                        |
 | images_7 | TiDB                                                         |
-|          |                                                              |
+| images_8 | PostgreSQL深度学习                                           |
 
