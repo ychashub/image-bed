@@ -14,4 +14,4 @@ image-bed
 | images_6 | C/C++                                                        |
 | images_7 | TiDB                                                         |
 | images_8 | PostgreSQL深度学习                                           |
-
+| images_9| web                                           |
